@@ -17,11 +17,11 @@ Pratique et Évaluation:
 
 Niveaux d'Apprentissage
 - Niveau 1 : Apprentissage de l'Alphabet
-    Objectif : Apprendre les signes de chaque lettre de l'alphabet.
+     - Objectif : Apprendre les signes de chaque lettre de l'alphabet.
 - Méthodologie : Utilisation de modèles de mains indiquant les signes à faire pour chaque lettre.
 - Évaluation : Pourcentage de réussite affiché en temps réel pour chaque signe.
 - Niveau 2 : Se Présenter
-    Objectif : Apprendre à se présenter en langue des signes.
+    - Objectif : Apprendre à se présenter en langue des signes.
 - Méthodologie : Utilisation de modèles de mains pour guider l'utilisateur à travers des phrases simples de présentation.
 
 
